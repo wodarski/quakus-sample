@@ -1,0 +1,4 @@
+- Externalizar configurações do Swagger UI (clientId, authorizationUrl, tokenUrl)
+- Validações de negócio
+- Persistência no Banco de Dados
+- Testes Automatizados
